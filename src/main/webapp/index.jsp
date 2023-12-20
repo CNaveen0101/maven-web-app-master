@@ -1,16 +1,16 @@
 <html>
 <body>
-<h1><font color='blue'> One Day you will be success <font></h1>
+<h1><font color='blue'> Welcomes to Navi tech <font></h1>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+<a href="https://github.com/CNaveen0101">Click Here To See GIT REPO</a>
   
-  <h2> Call Us : + 91 - 99 85 39 66 77 / 99 85 29 66 77</h2>
+  <h2> Call Us : + 91 -8807407906</h2>
   
-  <h3> Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3> Ofc Location : Vellore </h3>
   
-  <h1> Learn Here.. Lead Anywhere..!! </h1>
+  <h1> Failure is the stepping stone to success..!! </h1>
 
-  <p> All the best my dear friend....</p>
+  <p> Always Motivate yourself...</p>
 
 </body>
 </html>
